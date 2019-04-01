@@ -456,4 +456,28 @@ return array (
     'tip' => '无需安装任何插件',
     'id' => 'fantasy',
   ),
+  '131m3u8' => 
+  array (
+    'status' => '1',
+    'from' => '131m3u8',
+    'show' => '131m3u8',
+    'des' => '',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '99',
+    'tip' => '131m3u8',
+    'id' => '131m3u8',
+  ),
+  '131zy' => 
+  array (
+    'status' => '1',
+    'from' => '131zy',
+    'show' => '131zy',
+    'des' => '',
+    'ps' => '0',
+    'parse' => '',
+    'sort' => '99',
+    'tip' => '131zy',
+    'id' => '131zy',
+  ),
 );

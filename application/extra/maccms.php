@@ -177,7 +177,7 @@ return array (
   'interface' => 
   array (
     'status' => '1',
-    'pass' => 'MXQ8CQ',
+    'pass' => 'LBHMQKET5IZHOUB8',
     'vodtype' => '动作=动作片',
     'arttype' => '头条=头条',
   ),
